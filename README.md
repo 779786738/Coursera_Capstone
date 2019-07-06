@@ -1,2 +1,2 @@
 # Coursera_Capstone
-Capstone project
+This notebook will be mainly used for the Applied Data Science capstone project.
